@@ -1,0 +1,16 @@
+Patient_ID,ArrivalTime,ServiceStart,ServiceEnd,Waiting Time Min,Service Time Min,SeverityLevel,Doctor ID,Outcome
+P001,8:05,8:20,8:40,15,20,3,D01,Discharged
+P002,8:10,8:25,9:00,15,35,4,D02,Admitted
+P003,8:12,8:30,8:55,18,25,2,D03,Discharged
+P004,8:20,8:50,9:25,30,35,5,D01,Admitted
+P005,8:25,8:45,9:00,20,15,1,D04,Discharged
+P006,8:30,9:00,9:45,30,45,4,D02,Admitted
+P007,8:35,8:55,9:20,20,25,2,D03,Discharged
+P008,8:45,9:10,9:40,25,30,3,D04,Discharged
+P009,8:50,9:25,10:00,35,35,5,D01,Admitted
+P010,9:00,9:20,9:50,20,30,3,D02,Discharged
+P011,9:10,9:45,10:20,35,35,4,D03,Admitted
+P012,9:15,9:30,9:50,15,20,2,D04,Discharged
+P013,9:20,9:50,10:25,30,35,5,D01,Admitted
+P014,9:30,9:45,10:05,15,20,3,D02,Discharged
+P015,9:40,10:05,10:35,25,30,4,D03,Admitted
